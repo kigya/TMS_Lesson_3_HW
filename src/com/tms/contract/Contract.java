@@ -17,9 +17,4 @@ public abstract class Contract extends Date {
         this.documentNumber = documentNumber;
         this.documentDate = documentDate;
     }
-
-    @Override
-    public String toString() {
-        return super.toString();
-    }
 }
